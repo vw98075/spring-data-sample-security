@@ -4,10 +4,10 @@ This is the third installment of the Spring Data Rest sample series. A security 
 
 Spring Data Sample series:
 
- * [First installment](https://github.com/vw98075/spring-data-sample-security): a single entity
+ * [First installment](https://github.com/vw98075/spring-data-sample): a single entity
  * [Second installment](https://github.com/vw98075/spring-data-sample2): multiple entities and they are related
- * [Third installment]: secure API access with in-memory user setup
- * [Fourth installment]: secure API access with DB user setup
- * [Fifth installment]: secure API access with JWT, a sessionless approach
+ * Third installment: secure API access with in-memory user setup
+ * Fourth installment: secure API access with DB user setup
+ * Fifth installment: secure API access with JWT, a sessionless approach
 
 All end-points of this application can be found on the Swagger page http://localhost:8080/swagger-ui.html
